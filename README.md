@@ -22,7 +22,12 @@ Minimalist task management application. Add, delete, and manage your todos. Seam
 *HTML / SCSS / RWD / BEM / JavaScript*  
 A simple, yet elegantly designed responsive landing page tailored for the tech brand "Nothing".  
 - [Nothing ® Landing Page - DEMO](https://jacekkosiba.github.io/nothing-landing-page/)  
-- [Nothing ® Landing Page - REPO](https://github.com/jacekkosiba/nothing-landing-page)  
+- [Nothing ® Landing Page - REPO](https://github.com/jacekkosiba/nothing-landing-page)
+
+**🌐🛒👨‍👩‍👧‍👦  Nice Gadget Store ® - Group effort, in progress - 2024**  
+*React / React Router / MUI / RWD / TypeScript / Node.js / Express / Axios / Clerk / Sequelize / PostgreSQL*  
+- [Nothing ® Landing Page - DEMO](https://nice-gadgets-store.onrender.com/)  
+- [Nothing ® Landing Page - REPO](https://github.com/PL-FE-SEP23-JANUSZ3X/product_catalog)  
 
 **🎚️🎛️ Online Mixing Console - 2017**  
 *JavaScript / jQuery / Pizzicato.js / HTML / CSS*  
